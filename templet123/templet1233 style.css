@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    background-image: url(/img/3456.webp);
+    height: 400vh;
+    background-repeat: no-repeat;
+}
+.box h1{
+    text-align: center;
+    padding-top: 25vh;
+    color: white;
+}
